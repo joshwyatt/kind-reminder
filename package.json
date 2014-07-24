@@ -1,0 +1,25 @@
+{
+  "name": "kind-reminder",
+  "version": "1.0.0",
+  "description": "A very thin module to keep your program sane.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshWyatt/kind-reminder.git"
+  },
+  "keywords": [
+    "kind",
+    "sane",
+    "helpful",
+    "thin"
+  ],
+  "author": "Josh Wyatt <josh@joshwyatt.io> (http://joshwyatt.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshWyatt/kind-reminder/issues"
+  },
+  "homepage": "https://github.com/joshWyatt/kind-reminder"
+}
